@@ -5,7 +5,7 @@ This simple project demonstrates the bug reported at <https://github.com/faceboo
 Node v12 is required
 
 
-#What's Here?
+## What's Here?
 
 `MyClass.js` defines a class with one private property and one public method.
 The method simply returns the private property.
